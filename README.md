@@ -1,4 +1,10 @@
-
+## Current Features
+- Product Management
+- Cart Operations
+- Quantity Control
+- Checkout Process
+- Payment Gateway Integration
+  
 ## How to run the source code
 - Git clone repository.
 - cd repo folder
